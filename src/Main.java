@@ -9,6 +9,3 @@ public class Main {
 		System.out.println("Task 9: Source and Version Control.");
 	}
 }
-
-git config user.name "Caio Reis"
-git config user.email "caioreis@myop.ac.nz"
