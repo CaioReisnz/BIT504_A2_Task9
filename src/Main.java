@@ -4,8 +4,11 @@
 // Assessment Number: 2
 
 public class Main {
-	public static void mai(String[] args) {
+	public static void main(String[] args) {
 		System.out.println("Hello!");
 		System.out.println("Task 9: Source and Version Control.");
 	}
 }
+
+git config user.name "Caio Reis"
+git config user.email "caioreis@myop.ac.nz"
